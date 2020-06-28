@@ -7,7 +7,7 @@ and then the second bling area. After every blink, the player has to remember th
 area where blink appeared) from the first (start of the game) and start clicking the area
 accordingly.**
 
-[https://hackathon-sequence-finder.netlify.app/]url
+[https://hackathon-sequence-finder.netlify.app/] (url)
 
 Look at the picture of game !!
 ![Screenshot from 2020-06-27 21-41-18](https://user-images.githubusercontent.com/62981982/85937723-ed08eb00-b923-11ea-9b4f-df07ae6d5f9e.png)
