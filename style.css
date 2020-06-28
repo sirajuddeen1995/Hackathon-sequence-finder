@@ -1,0 +1,74 @@
+
+*{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  h1 {
+      color: #b9d170;
+  }
+  body {
+	  margin: 0;
+	  background: #030303;
+	  display: flex;
+	  align-items: center;
+      height: 100vh;
+	}
+	.gameboard {
+	  height: 100vh;
+	  width: 100vh;
+	  border-radius: 50%;
+	  overflow: hidden;
+	  margin: 0 auto;
+	  max-height: 70vh;
+	  max-width: 70vh;
+	}
+	.color {
+	  width: 50%;
+	  height: 50%;
+	  display: inline-block;
+	}
+	.left {
+	  float: left;
+	}
+	.right {
+	  float: left;
+	}
+	.celeste {
+	  background: #8b3902f1;
+	}
+	.celeste.light {
+	  background: #e6e2e0;
+	}
+	.violeta {
+	  background: #9c06c2;
+	}
+	.violeta.light {
+	  background: #e2dae4;
+	}
+	.naranja {
+	  background: #0418c9;
+	}
+	.naranja.light {
+	  background: #e7e8eb;
+	}
+	.verde {
+	  background: #1d5a03;
+	}
+	.verde.light {
+	  background: #b9d170;
+	}
+	.btn-start {
+	  width: 400px;
+	  height: 100px;
+	  color: #dadd18;
+	  font-size: 3.5rem;
+	  position: absolute;
+	  top: calc(50% - 50px);
+	  left: calc(50% - 200px);
+	  border-radius: 5px;
+	  border: none;
+      box-shadow: 0 0 10px rgba(231, 12, 12, 0.3);
+      background-color: aliceblue;
+	}
+	.hide {
+	  display: none;
+	}
